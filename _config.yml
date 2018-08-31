@@ -11,16 +11,15 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Florin Munteanu"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Software Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "florinmunteanu96@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "0040743793905"
-resume_contact_address:         "Str Ionel Fernic Nr. 6 Galati, Romania"
 
-resume_header_contact_info:     "Str Ionel Fernic Nr. 6 Galati, Romania"
+resume_header_contact_info:     "Galati, Romania"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Software developer, C#, .NET, HTML, JavaScript Frameworks</p>"
