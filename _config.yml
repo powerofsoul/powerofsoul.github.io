@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Florin Munteanu"
-resume_title:                   "Software Developer"
+resume_title:                   "Senior Software Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@florinmunteanu.info"
@@ -22,7 +22,7 @@ resume_contact_telephone:       "0040743793905"
 resume_header_contact_info:     "Galati, Romania"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Software developer, C#, .NET, HTML, JavaScript Frameworks</p>"
+resume_header_intro: "<p>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
